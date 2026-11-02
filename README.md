@@ -85,13 +85,17 @@ Proyecto académico grupal para la gestión de productos, inventario, compras y 
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Actividad en GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cesrm27&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://ghchart.rshah.org/6366f1/Cesrm27" alt="Gráfico de contribuciones de César Milla" width="90%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesrm27&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+**Explora mis proyectos y contribuciones en GitHub.**
+
+<a href="https://github.com/Cesrm27?tab=repositories">Ver mis repositorios</a>
 
 </div>
 

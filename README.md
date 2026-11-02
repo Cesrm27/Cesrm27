@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Cesar Rodrigo Milla Gómez 👋
+# Cesar Rodrigo Milla Gómez
 
 ### Ingeniería Informática · Data Science · Machine Learning
 
